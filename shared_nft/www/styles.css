@@ -1,0 +1,28 @@
+/*Shared NFT CSS*/
+
+.main-app { 
+  margin: auto;
+  text-align: center;
+  
+}
+
+.address-input { 
+   margin: auto;
+  text-align: center;
+}
+
+.button-bar {
+  background-color: #c6ccc2;
+  text-align: center;
+}
+
+
+.center-button { 
+  margin: auto;
+  text-align: center;
+}
+
+.footer { 
+  text-align: center;
+  
+}
